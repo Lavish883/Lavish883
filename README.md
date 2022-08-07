@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hello \(￣︶￣*\)), I'm Lavish</h1>
 
 <!--
 **Lavish883/Lavish883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
