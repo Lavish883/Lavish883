@@ -10,7 +10,7 @@
 
 ### Professional Experience
 
-#### **Arlington High School**
+#### **Arlington High School** (Volunteer Role)
 **Software Developer (Scholarship Automation Project)** | 2022 – 2024 
 * Led development of a full-stack scholarship management system replacing manual Google Forms and spreadsheet workflows.
 * Built custom digital forms using HTML, CSS, and JavaScript with an administrative dashboard to manage submissions.
